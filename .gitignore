@@ -29,3 +29,7 @@ blog/
 
 # Claude Code 本地配置
 .claude/
+
+# 已废弃的 Windows 仪表盘脚本
+dashboard.bat
+windows-dashboard.bat
