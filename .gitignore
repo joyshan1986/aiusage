@@ -26,3 +26,6 @@ RELEASE.md
 /.codegraph/
 aiusage-data/
 blog/
+
+# Claude Code 本地配置
+.claude/
